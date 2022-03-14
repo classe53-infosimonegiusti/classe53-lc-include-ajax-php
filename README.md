@@ -1,1 +1,0 @@
-# lc-include-ajax-php
